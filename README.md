@@ -1,3 +1,8 @@
+## Deployment
+
+The application is deployed on Streamlit Community Cloud and can be accessed at:
+https://erdxb2enxjddhtwuqxxnhd.streamlit.app/
+
 # Movie Recommendation System
 
 A content-based movie recommendation system built with Python, Pandas, NLTK, Scikit-Learn, and Streamlit. This application recommends five similar movies based on metadata including genres, keywords, cast, crew, and overviews from the TMDB 5000 dataset.
@@ -64,7 +69,3 @@ streamlit run app.py
 ```
 Access the application locally at http://localhost:8501.
 
-## Deployment
-
-The application is deployed on Streamlit Community Cloud and can be accessed at:
-https://erdxb2enxjddhtwuqxxnhd.streamlit.app/
